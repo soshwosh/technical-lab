@@ -2,6 +2,9 @@
 **Date:** YYYY-MM-DD.   
 **Type:** [Discussion vs Live Code]
 
+## Guiding Questions / Ideas
+*Some specific questions or thoughts about the topic to cover.*
+
 ## Key Takeaways
 *A couple bullets with the big ideas you came away with.*
 

@@ -14,6 +14,4 @@ The artifacts for each session can be found within the "Sessions" folder. Each s
 Other artifacts may include diagrams, in the case of the Discussion sessions, and code, in the case of the Live Code sessions.
 
 ## Topics
-A backlog of interesting topics to tackle in future labs. Maybe I can actually just make issues for the topics instead though...
-
-[ ] Lifecycle of a React component
+Find a backlog of interesting topics to tackle in future labs in the issues for this project.
